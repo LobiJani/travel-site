@@ -1,1 +1,1 @@
-alert("Hello, this is an annoying popup .....")
+import '../styles/styles.css'
